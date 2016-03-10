@@ -66,6 +66,7 @@ Seguem algumas sugestões para melhorar o visual das páginas:
 ### <abbr title="Frequently Asked Questions">FAQ</abbr>
 
 - Centralizando uma `<img>`:
+
   ```css
   img {
     display: block;
@@ -83,6 +84,7 @@ Seguem algumas sugestões para melhorar o visual das páginas:
   - `a:hover` - um link quando o mouse está em cima dele
   - `a:active` - um link no momento em que é "clicado"
 - Imagem de fundo que não repete
+
   ```css
   body {
     background-image: url(img/nome-da-imagem.png);
