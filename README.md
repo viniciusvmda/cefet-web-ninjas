@@ -21,33 +21,33 @@ Assim, esta atividade propõe alguns **itens obrigatórios** e outros de
 Aqui estão os itens que precisam ser implementados:
 
 1. Logomarca
-  - Reduzir o tamanho da logomarca (está muito grande) para `200px` de largura
-    (`width`)
-  - Centralizar (veja FAQ)
+   - Reduzir o tamanho da logomarca (está muito grande) para `200px` de largura
+     (`width`)
+   - Centralizar (veja FAQ)
 1. Todas as imagens e vídeos no corpo da página (exceto logo)
-  - Quebrar linha em vez de aparecer "dentro" do parágrafo
-  - Centralizar
+   - Quebrar linha em vez de aparecer "dentro" do parágrafo
+   - Centralizar
 1. Títulos da página (`<h1>` e `<h2>`)
-  - Usar outra fonte, que não seja a padrão (`font-family`)
-    - Você pode usar a ferramenta de desenvolvedor do navegador para ver
-      possíveis valores de fonte
+   - Usar outra fonte, que não seja a padrão (`font-family`)
+     - Você pode usar a ferramenta de desenvolvedor do navegador para ver
+       possíveis valores de fonte
 1. Hiperlinks
-  - Estilize os hiperlinks em seus 4 estados diferentes (veja FAQ)
-    - Sugestão: variar as propriedades `color` e/ou
-    `text-decoration: underline` (sublinhado) e `text-decoration: none`
+   - Estilize os hiperlinks em seus 4 estados diferentes (veja FAQ)
+     - Sugestão: variar as propriedades `color` e/ou
+       `text-decoration: underline` (sublinhado) e `text-decoration: none`
 1. Links externos
-  - Coloque um ícone (`<img>`) de globo (`img/globo.png`) à esquerda dos
-    hiperlinks que apontam para URLs externas
-    - Dica: você pode usar esta imagem e você precisará das propriedades
+   - Coloque um ícone (`<img>`) de globo (`img/globo.png`) à esquerda dos
+     hiperlinks que apontam para URLs externas
+     - Dica: você pode usar esta imagem e você precisará das propriedades
       `background-image`, `background-repeat` (veja FAQ) e `padding-left`
 1. "Notas" (no passo 2 e nas referências)
-  - Esmaeça o texto das notas para que não chamem tanta atenção quanto o texto
-    principal
+   - Esmaeça (deixe mais "apagadinho") o texto das notas para que não chamem tanta atenção quanto o texto
+     principal
 1. Número do passo (para se tornar ninja)
-  - Aumente a fonte e mude a cor e o fundo do número do passo
-  - Aumente a fonte (_e.g._, `font-size: 20px`) do "nome do passo"
+   - Aumente a fonte e mude a cor e o fundo do número do passo
+   - Aumente a fonte (_e.g._, `font-size: 20px`) do "nome do passo"
 
-    ![](docs/exemplo-estilo-passo.png)
+     ![](docs/exemplo-estilo-passo.png)
 
 ### Sugestões
 
